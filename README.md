@@ -1,2 +1,1 @@
-# Leetcode
-Striver SDE and leetcode
+# DSA probs
